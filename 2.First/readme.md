@@ -30,5 +30,5 @@ Kemudian setiap baris dari tabel tentunya harus diisikan dengan data yang akan m
 ![alt text](https://lh4.googleusercontent.com/6D58TU0Cs3AbHMXPalK0GgdlZaeRaVIXQSg44006FN1U5abflaF31W5UydcUzMbS8V5J8NdbllsAJeJo5ZxWw0ynGzV76C_E0eyiWjIYsH1eZchd0_ywiVFYeYQKWmux02iWG_UZ)
 
 Sumber refrensi Belajar
--[Video](https://www.youtube.com/watch?v=m4PxGxaF8wY&feature=youtu.be)
+-[Video](https://www.youtube.com/watch?v=m4PxGxaF8wY&feature=youtu.be)<br>
 -[w3school](https://www.w3schools.com/html/html_tables.asp)
