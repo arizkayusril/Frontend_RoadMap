@@ -26,4 +26,9 @@ Sebuah tabel terdiri dari dua elemen utama, yaitu baris dan kolom. HTML sudah me
 Kemudian setiap baris dari tabel tentunya harus diisikan dengan data yang akan menghasilkan kolom tabel. untuk mengisi data pada kolom tabel pada html menggunakan elemen `<td>`.Tetapi, jika ingin membuat baris pertama pada tabel sebagai header, kita dapat menuliskan baris pertama dengan elemen `<th>`.
 
 ###Latihan
+1. Coba buat Tabel seperti digambar
 ![alt text](https://lh4.googleusercontent.com/6D58TU0Cs3AbHMXPalK0GgdlZaeRaVIXQSg44006FN1U5abflaF31W5UydcUzMbS8V5J8NdbllsAJeJo5ZxWw0ynGzV76C_E0eyiWjIYsH1eZchd0_ywiVFYeYQKWmux02iWG_UZ)
+
+Sumber refrensi Belajar
+-[Video](https://www.youtube.com/watch?v=m4PxGxaF8wY&feature=youtu.be)
+-[w3school](https://www.w3schools.com/html/html_tables.asp)
