@@ -1,5 +1,7 @@
 # First Touch
-Hi Frontend Developer, ini saat nya kamu mengenal lebih dekat lagi tentang HTML, berikut link reverensinya semoga bisa membantu teman-teman dalam belajar.Selamat Belajar Coding.
+Hi Frontend Developer, ini saat nya kamu mengenal lebih dekat lagi tentang HTML, semoga bisa membantu teman-teman dalam belajar.Selamat Belajar Coding.
+
+!! PASTIKAN SUDAH PAHAM STRUKTUR HMTL YAK !!
 
 ## Membuat Tabel
 
