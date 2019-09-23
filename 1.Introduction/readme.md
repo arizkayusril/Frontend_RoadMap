@@ -32,7 +32,7 @@ ________________________________________________________________________________
 3. Tenang saat terjadi error
 4. Search di google yang belum paham
 5. Memperbanyak explore untuk menambah wawasan
-6. Bertanya saat tidak tau dan sudah mencari tapi tidak menemukan atau jawabannya kurang puas
+6. Bertanya saat tidak tau atau sudah mencari tapi tidak menemukan atau jawabannya kurang puas
 
 ## Latihan
 1. Menjelaskan secara global tentang kinerja Frontend developer sendiri
