@@ -3,7 +3,7 @@
     
     Ada banyak hal yang membuat kita harus belajar web programming. Yang pertama, teknologi web adalah teknologi yang masih terus berkembang hingga saat ini.
 
-    Alasan kedua, Bahkan aplikasi mobile sesungguhnya banyak bergantung pada sistem web sebagai pusat penyimpanan data. Alasan yang terakhir, web programming relatif lebih mudah untuk dipelajari untuk orang awam yang masih buta dengan pemrograman.
+    Alasan kedua, Bahkan aplikasi mobile banyak bergantung pada sistem web sebagai pusat penyimpanan data. Alasan yang terakhir, web programming relatif lebih mudah untuk dipelajari untuk PEMULA
 
     Alasan ketiga, meski banyak yang mengatakan mobile akan menggantikan web, namun nyatanya web masih dipakai oleh banyak orang. 
     
@@ -27,11 +27,11 @@
 ____________________________________________________________________________________________________
 
 ## Frontend Developer Pembiasaan
-1. Sering2 mencoba meniru sebuah landing_Page 
+1. Sering-sering mencoba meniru sebuah landing_Page 
 2. Mengenal dan beradaptasi dengan CSS
 3. Tenang saat terjadi error
 4. Search di google yang belum paham
-5. Banyakin explore untuk menambah wawasan
+5. Memperbanyak explore untuk menambah wawasan
 6. Bertanya saat tidak tau dan sudah mencari tapi tidak menemukan atau jawabannya kurang puas
 
 ## Latihan
@@ -40,3 +40,6 @@ ________________________________________________________________________________
 3. Membuat Biodata diri dengan HTML mencakup Nama , TTL , Alamat , Medsos , Hobi Lalu miinta penilaian mentor 
 
 ## Selanjutnya ?
+[Next](https://github.com/arizkayusril/Frontend_RoadMap/tree/master/2.First)
+
+@mentor_kalean_tertampan
