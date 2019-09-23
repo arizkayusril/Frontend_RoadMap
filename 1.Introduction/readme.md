@@ -1,6 +1,32 @@
 # INTRODUCTION
-1. Pengantar bahasa pemrograman dan pemula yang dibutuhkan.
-2. Apa yang seharusnya sudah Anda ketahui, sebelum melanjutkan, Anda harus memiliki pemahaman DASAR Frontend Developer
+1. Mengapa Belajar Web Programming?
+    
+    Ada banyak hal yang membuat kita harus belajar web programming. Yang pertama, teknologi web adalah teknologi yang masih terus berkembang hingga saat ini.
+
+    Alasan kedua, Bahkan aplikasi mobile sesungguhnya banyak bergantung pada sistem web sebagai pusat penyimpanan data. Alasan yang terakhir, web programming relatif lebih mudah untuk dipelajari untuk orang awam yang masih buta dengan pemrograman.
+
+    Alasan ketiga, meski banyak yang mengatakan mobile akan menggantikan web, namun nyatanya web masih dipakai oleh banyak orang. 
+    
+    Karena tingkat kesulitan yang lebih rendah, banyak orang yang sebelumnya tidak mengerti programming sama sekali bisa sukses menjadi seorang web programmer.
+
+2. Apa yang seharusnya sudah Anda ketahui, sebelum melanjutkan,        Anda harus memiliki pemahaman Konsep Client dan Server
+
+    Client dan server adalah bagian penting pada web development. Berdasarkan fungsinya, pemrograman web dibagi menjadi dua yaitu frontend dan backend.
+
+    Frontend adalah bagian web yang bisa dilihat secara langsung oleh pengguna. 
+
+    Misalnya, saat kita membuka Facebook atau Twitter, maka halaman-halaman yang muncul merupakan bagian dari frontend.
+
+    Saat kita mendaftar, melakukan login, mengirim pesan, mengunggah gambar, dan aksi di mana kita perlu mengambil atau menyimpan data, maka aksi-aksi tersebut akan terjadi di backend yang tidak bisa kita lihat bagaimana aksi-aksi tadi terjadi.
+
+    Frontend dan backend sangat erat kaitannya.
+
+    Jika sebuah web hanya memiliki tampilan atau frontend saja, maka ia tidak bisa melakukan sesuatu yang dinamis.
+
+    Kita tidak bisa mencari data atau menyimpan data di sebuah web yang tidak memiliki backend. 
+    
+    Sebaliknya, jika kita hanya membuat backend-nya saja, pengguna tidak bisa berinteraksi dengan web yang kita buat, yang menyebabkan web kita tidak ada yang memakai.
+
 3. Pemahaman tentang Client Side and Server Side language
  [Pengenalan_Frontend](https://youtu.be/SuVMobAoToc)
 

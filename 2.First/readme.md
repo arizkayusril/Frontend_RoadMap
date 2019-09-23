@@ -3,7 +3,7 @@ Hi Frontend Developer, ini saat nya kamu mengenal lebih dekat lagi tentang HTML,
 
 ## Membuat Tabel
 
-Untuk menampilkan data yang terstruktur memiliki banyak cara, mulai dari menggunakan grafik, sampai dengan menggunakan tabel, namun pada pembahasan ini kita akan sedikit mengulas tentang bagaimana menampilkan data menggunakan tabel.
+Untuk menampilkan data yang terstruktur memiliki banyak cara, mulai dari menggunakan grafik, sampai dengan menggunakan tabel, namun pada pembahasan ini kita akan sedikit mengulas tentang bagaimana menampilkan data menggunakan sebuah tabel.
 
 Sebuah tabel terdiri dari dua elemen utama, yaitu baris dan kolom. HTML sudah menyediakan beberapa elemen untuk membuat sebuah tabel, yaitu `<table>, <tr>, <td>`. Sebelum membuat baris dan kolom maka kita harus inisialisasi tabel terlebih dahulu menggunakan elemen `<table>`.
 ```
