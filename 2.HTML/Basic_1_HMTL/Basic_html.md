@@ -32,7 +32,7 @@ Struktur dasar HTML memiliki susunan file seperti berikut ini :
 Struktur HTML terdiri dari 3 konsep dasar yaitu tag, elemen dan atribut.
 
 ### Tag HTML
-    Tag HTML adalah suatu penanda untuk menandai elemen-elemen dalam suatu dokumen HTML. Fungsi tag adalah untuk memberikan instruksi atau memberitahu kepada browser bagaimana suatu objek ditampilkan berdasarkan tag yang digunakan, objek di sini bisa berupa teks, video, audio dan gambar.
+Tag HTML adalah suatu penanda untuk menandai elemen-elemen dalam suatu dokumen HTML. Fungsi tag adalah untuk memberikan instruksi atau memberitahu kepada browser bagaimana suatu objek ditampilkan berdasarkan tag yang digunakan, objek di sini bisa berupa teks, video, audio dan gambar.
 
 Tag HTML pada umumnya dibuat berpasangan, ada tag pembuka dan ada tag penutup. Tag pembuka ditulis seperti ini:
 
