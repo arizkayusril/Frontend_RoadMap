@@ -62,6 +62,6 @@ Contoh atribut global di antaranya adalah class, id, lang, title, style dan seba
 
 ## Nugas Donk!
 1. buatlah seperti dengan format ini, dan ganti sesuai dengan individu masing-masing !
-![alt text](https://images.app.goo.gl/jcczMrPhD4VuJ6JL6)
+![alt text](https://3.bp.blogspot.com/-DR7euR35is0/WwLPJ9RhnHI/AAAAAAAAAts/R2_AYudXByQGBwKqdt5gwIdWN32MauHswCLcBGAs/s1600/css.png)
 
 [Next_yuk!](https://github.com/arizkayusril/Frontend_RoadMap/blob/master/2.HTML/Basic_CSS/Basic_CSS.md)

@@ -113,6 +113,6 @@ Berikut contoh implementasi selector id dan class:
 <p id="highlight">Ini selector id</p>
 ```
 
-## Agar Lebih Paham simak vidio ini [Vidio_CSS](https://youtu.be/eE3MW_doEg0)
+### Agar Lebih Paham simak vidio ini [Vidio_CSS](https://youtu.be/eE3MW_doEg0)
 
 [Lanjut_gan!](https://github.com/arizkayusril/Frontend_RoadMap/blob/master/2.HTML/Make%20tabel/Tabel_html.md)
