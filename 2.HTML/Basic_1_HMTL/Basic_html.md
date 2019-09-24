@@ -56,6 +56,6 @@ Struktur HTML terdiri dari 3 konsep dasar yaitu tag, elemen dan atribut.
 
     Contoh atribut global di antaranya adalah class, id, lang, title, style dan sebagainya. Sedangkan atribut spesifik adalah atribut yang hanya berfungsi pada tag-tag tertentu, seperti atribut href yang hanya berlaku pada tag <a> dan <link>, atribut src yang hanya berlaku pada tag <img> dan <script>, dan sebagainya.
 
-## Daftar lebih lengkap atribut HTML dapat dilihat di [W3SCHOOLS.COM] (https://www.w3schools.com/html/html_attributes.asp)
+#### Daftar lebih lengkap atribut HTML dapat dilihat di [W3SCHOOLS.COM] (https://www.w3schools.com/html/html_attributes.asp)
 
-## Untuk lebih paham tentang struktur HTML maka bisa di lihat di [Basic_HTML](https://youtu.be/AC06wmiLoUE)
+#### Untuk lebih paham tentang struktur HTML maka bisa di lihat di [Basic_HTML](https://youtu.be/AC06wmiLoUE)
