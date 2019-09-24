@@ -37,7 +37,7 @@ ________________________________________________________________________________
 ## Latihan
 1. Menjelaskan secara global tentang kinerja Frontend developer sendiri
 2. Menjelaskan apa itu HTML DAN CSS
-3. Membuat Biodata diri dengan HTML mencakup Nama , TTL , Alamat , Medsos , Hobi Lalu miinta penilaian mentor 
+3. Menjelaskan client side dan server side  
 
 ## Selanjutnya ?
 [Next](https://github.com/arizkayusril/Frontend_RoadMap/tree/master/2.First)

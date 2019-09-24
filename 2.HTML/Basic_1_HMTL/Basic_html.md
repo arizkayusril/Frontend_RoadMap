@@ -59,3 +59,9 @@ Contoh atribut global di antaranya adalah class, id, lang, title, style dan seba
 #### Daftar lebih lengkap atribut HTML dapat dilihat di [W3SCHOOLS.COM](https://www.w3schools.com/html/html_attributes.asp)
 
 #### Untuk lebih paham tentang struktur HTML maka bisa di lihat di [Basic_HTML](https://youtu.be/AC06wmiLoUE)
+
+## Nugas Donk!
+1. buatlah seperti dengan format ini, dan ganti sesuai dengan individu masing-masing !
+![alt text](https://images.app.goo.gl/jcczMrPhD4VuJ6JL6)
+
+[Next_yuk!](https://github.com/arizkayusril/Frontend_RoadMap/blob/master/2.HTML/Basic_CSS/Basic_CSS.md)
