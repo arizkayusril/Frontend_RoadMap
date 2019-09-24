@@ -61,7 +61,21 @@ Contoh atribut global di antaranya adalah class, id, lang, title, style dan seba
 #### Untuk lebih paham tentang struktur HTML maka bisa di lihat di [Basic_HTML](https://youtu.be/AC06wmiLoUE)
 
 ## Nugas Donk!
-1. buatlah seperti dengan format ini, dan ganti sesuai dengan individu masing-masing !
-![alt text](https://3.bp.blogspot.com/-DR7euR35is0/WwLPJ9RhnHI/AAAAAAAAAts/R2_AYudXByQGBwKqdt5gwIdWN32MauHswCLcBGAs/s1600/css.png)
+1. buatlah seperti dengan format ini, dan ganti sesuai dengan individu masing-masing, dan mencakup 
+    1.Nama:
+    2.TTL
+    3.Alamat
+    4.Hobi
+    5.Medsos:
+        a.FB
+        B.IG
+        c.WA(masukan no kalean)
+        d.Linkedin
+        e.Gmail
+        (misal tidak memiliki salah satu medsos di atas bisa di kosongkan)
+        
+![alt text](http://2.bp.blogspot.com/-XRCVJLpaURI/UFWIK8_zKYI/AAAAAAAAAGI/7S2ZgawtfUc/s1600/Capture.PNG)
+
+
 
 [Next_yuk!](https://github.com/arizkayusril/Frontend_RoadMap/blob/master/2.HTML/Basic_CSS/Basic_CSS.md)
