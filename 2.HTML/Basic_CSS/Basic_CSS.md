@@ -45,17 +45,17 @@ Style di definisikan di dalam file, misalkan style.css:
 ```
     /* style.css */
 
-        h1 {
-            font-size: 40px;
-            color: orange;
-        }
+    h1 {
+        font-size: 40px;
+        color: orange;
+    }
 ```
 Kemudian style.css ditautkan di dalam dokumen HTML menggunakan tag `<link>`:
 ```
-        `<!-- index.html-->`
+    <!-- index.html-->
 
-        <link href="style.css" rel="stylesheet" type="text/css" />
-        <h1>Teks Judul</h1>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <h1>Teks Judul</h1>
 ```
 
 ## CSS Properties
