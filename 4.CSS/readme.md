@@ -16,7 +16,7 @@ Adapun dari versi css ada yang namanya CSS3 [apa itu css3](https://www.youtube.c
 
 ### Css Layouting
 Layouting adalah bagian bagian structure html yang menyesualikan dengan baik dengan css.Bisa dibilang kayak design arsitek. Contoh implementasi gambarnya seperti ini.
-![alt text](http://url/to/img.png)| ![alt text](http://url/to/img.png) |
+![alt text](https://github.com/arizkayusril/Frontend_RoadMap/blob/master/4.CSS/image/layouting1.png)| ![alt text](https://github.com/arizkayusril/Frontend_RoadMap/blob/master/4.CSS/image/layouting2.png) |
 
 Bisa di pelajari di
 1. [yt-layouting-sandhika](https://www.youtube.com/watch?v=Phn2eN6j0pg&list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr)
@@ -56,3 +56,9 @@ Mempermudah kinerja mu dalam membuat website. Bangun proyek responsif, mobile-fi
 1. [w3-scholl](https://www.w3schools.com/w3css/w3css_intro.asp)
 2. [petani-code](https://www.petanikode.com/css-dalam-html/)
 3. [css-dasar-sandhikagalih](https://www.youtube.com/watch?v=CleFk3BZB3g&list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p)
+
+# Latihan
+1. Buat landing page bisa cari di dribble.
+2. Website yang dibuat harus responsive.
+3. Clean code.
+4. Disertakan layouting design.
