@@ -40,21 +40,21 @@ Tag HTML pada umumnya dibuat berpasangan, ada tag pembuka dan ada tag penutup. T
       <Nama Tag>...</tutup Tag>
 ```
 ### Elemen HTML
-    Rangkaian dari tag pembuka, konten dan tag penutup disebut dengan elemen HTML. Contoh berikut ini adalah elemen heading 1 dan elemen paragraf:
+Rangkaian dari tag pembuka, konten dan tag penutup disebut dengan elemen HTML. Contoh berikut ini adalah elemen heading 1 dan elemen paragraf:
 ```
       <h1>Selamat Datang SANTRI QODR </h1>
       <p>Selamat belajar HTML,ini adalah konten.</p>
 ```
 ### Attribute HTML
-    Atribut memiliki tugas khusus untuk memberikan informasi tambahan pada sebuah tag.
-    contoh:
+Atribut memiliki tugas khusus untuk memberikan informasi tambahan pada sebuah tag.
+contoh:
 ```
     <namatag nama-atribut="nilai-atribut"></namatag>
 
     <h1 class="Judul">Pemogramman</h1>
 ```
 
-    Contoh atribut global di antaranya adalah class, id, lang, title, style dan sebagainya. Sedangkan atribut spesifik adalah atribut yang hanya berfungsi pada tag-tag tertentu, seperti atribut href yang hanya berlaku pada tag <a> dan <link>, atribut src yang hanya berlaku pada tag <img> dan <script>, dan sebagainya.
+Contoh atribut global di antaranya adalah class, id, lang, title, style dan sebagainya. Sedangkan atribut spesifik adalah atribut yang hanya berfungsi pada tag-tag tertentu, seperti atribut href yang hanya berlaku pada tag `<a>` dan `<link>`, atribut src yang hanya berlaku pada tag `<img>` dan `<script>`, dan sebagainya.
 
 #### Daftar lebih lengkap atribut HTML dapat dilihat di [W3SCHOOLS.COM](https://www.w3schools.com/html/html_attributes.asp)
 
