@@ -1,5 +1,5 @@
 # INTRODUCTION
-##1.MENGAPA BELAJAR WEB PROGRAMMING?
+## 1.MENGAPA BELAJAR WEB PROGRAMMING?
     
 Ada banyak hal yang membuat kita harus belajar web programming. Yang pertama, teknologi web adalah teknologi yang masih terus berkembang hingga saat ini.
 
@@ -9,7 +9,7 @@ Alasan ketiga, meski banyak yang mengatakan mobile akan menggantikan web, namun 
 
 Karena tingkat kesulitan yang lebih rendah, banyak orang yang sebelumnya tidak mengerti programming sama sekali bisa sukses menjadi seorang web programmer.
 
-##2.PEMAHAN KONSEP CLIENT DAN SERVER
+## 2.PEMAHAN KONSEP CLIENT DAN SERVER
 
 Client dan server adalah bagian penting pada web development. Berdasarkan fungsinya, pemrograman web dibagi menjadi dua yaitu frontend dan backend.Frontend adalah bagian web yang bisa dilihat secara langsung oleh pengguna. 
 
