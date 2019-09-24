@@ -115,4 +115,10 @@ Berikut contoh implementasi selector id dan class:
 
 ### Agar Lebih Paham simak vidio ini [Vidio_CSS](https://youtu.be/eE3MW_doEg0)
 
+### Nugas dikit biar PRO ea!
+1.edit biodata yang sudah kalian buat sebelumnya dan edit menggunakan CSS dan metode eksternal stylesheet
+dengan Format seperti ini,gak harus sama ,edit sebagus mungkin dan tunjukkan skill kaleean :v !
+
+![alt text](https://3.bp.blogspot.com/-3kbk4Ep-yE8/V-uDY7bmWCI/AAAAAAAAALQ/7eFOXD-bs6AT802wqGbH8Dn0SSZ2ZpXFACLcB/s1600/Captureffg.JPG)
+
 [Lanjut_gan!](https://github.com/arizkayusril/Frontend_RoadMap/blob/master/2.HTML/Make%20tabel/Tabel_html.md)
