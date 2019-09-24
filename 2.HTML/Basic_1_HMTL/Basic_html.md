@@ -31,14 +31,14 @@ Struktur dasar HTML memiliki susunan file seperti berikut ini :
 
 Struktur HTML terdiri dari 3 konsep dasar yaitu tag, elemen dan atribut.
 
-    ### Tag HTML
+### Tag HTML
     Tag HTML adalah suatu penanda untuk menandai elemen-elemen dalam suatu dokumen HTML. Fungsi tag adalah untuk memberikan instruksi atau memberitahu kepada browser bagaimana suatu objek ditampilkan berdasarkan tag yang digunakan, objek di sini bisa berupa teks, video, audio dan gambar.
 
     Tag HTML pada umumnya dibuat berpasangan, ada tag pembuka dan ada tag penutup. Tag pembuka ditulis seperti ini:
     ```
       <Nama Tag>...</tutup Tag>
     ```
-    ### Elemen HTML
+### Elemen HTML
     Rangkaian dari tag pembuka, konten dan tag penutup disebut dengan elemen HTML. Contoh berikut ini adalah elemen heading 1 dan elemen paragraf:
     ```
       <h1>Selamat Datang SANTRI QODR </h1>
@@ -56,6 +56,6 @@ Struktur HTML terdiri dari 3 konsep dasar yaitu tag, elemen dan atribut.
 
     Contoh atribut global di antaranya adalah class, id, lang, title, style dan sebagainya. Sedangkan atribut spesifik adalah atribut yang hanya berfungsi pada tag-tag tertentu, seperti atribut href yang hanya berlaku pada tag <a> dan <link>, atribut src yang hanya berlaku pada tag <img> dan <script>, dan sebagainya.
 
-    ## Daftar lebih lengkap atribut HTML dapat dilihat di [W3SCHOOLS.COM] (https://www.w3schools.com/html/html_attributes.asp)
+## Daftar lebih lengkap atribut HTML dapat dilihat di [W3SCHOOLS.COM] (https://www.w3schools.com/html/html_attributes.asp)
 
-    ## Untuk lebih paham tentang struktur HTML maka bisa di lihat di [Basic_HTML](https://youtu.be/AC06wmiLoUE)
+## Untuk lebih paham tentang struktur HTML maka bisa di lihat di [Basic_HTML](https://youtu.be/AC06wmiLoUE)
