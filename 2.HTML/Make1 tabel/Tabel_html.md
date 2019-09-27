@@ -34,3 +34,5 @@ Kemudian setiap baris dari tabel tentunya harus diisikan dengan data yang akan m
 Sumber refrensi Belajar
 1. [Video](https://www.youtube.com/watch?v=m4PxGxaF8wY&feature=youtu.be)<br>
 2. [w3school](https://www.w3schools.com/html/html_tables.asp)
+
+[Lanjut_gan!](https://github.com/arizkayusril/Frontend_RoadMap/tree/master/2.HTML/Make2_List)

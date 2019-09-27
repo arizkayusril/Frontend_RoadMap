@@ -121,4 +121,4 @@ dengan Format seperti ini,gak harus sama ,edit sebagus mungkin dan tunjukkan ski
 
 ![alt text](https://3.bp.blogspot.com/-3kbk4Ep-yE8/V-uDY7bmWCI/AAAAAAAAALQ/7eFOXD-bs6AT802wqGbH8Dn0SSZ2ZpXFACLcB/s1600/Captureffg.JPG)
 
-[Lanjut_gan!](https://github.com/arizkayusril/Frontend_RoadMap/blob/master/2.HTML/Make%20tabel/Tabel_html.md)
+[Lanjut_gan!](https://github.com/arizkayusril/Frontend_RoadMap/blob/master/2.HTML/Make1%20tabel/Tabel_html.md)
