@@ -119,4 +119,4 @@ Mengaitkan struktur layout html dengan style CSS:
 ```
 
 Jika kode di atas dijalankan maka akan menghasilkan layout seperti gambar di bawah ini :
-[alt text!](https://lh5.googleusercontent.com/jPDNc7ICky1u0zH1WHHXS0eZPpgbJWGzkr3WifrWWOUGn2j0ZHbr6Cn8UUJA9hnfvtlnfC5DmMIOz1m5eJrby86gWxISWbhhFXzEcycl9LJUmrrehBATHpT3RMCcRBzRfZ6oXQUT)
+![alt text](https://lh5.googleusercontent.com/jPDNc7ICky1u0zH1WHHXS0eZPpgbJWGzkr3WifrWWOUGn2j0ZHbr6Cn8UUJA9hnfvtlnfC5DmMIOz1m5eJrby86gWxISWbhhFXzEcycl9LJUmrrehBATHpT3RMCcRBzRfZ6oXQUT)
