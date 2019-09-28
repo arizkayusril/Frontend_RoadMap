@@ -1,5 +1,6 @@
 #Membuat Layout dengan `<div>`
 
+
 Untuk membuat layout dengan tag `<div>`, kita membutuhkan style CSS.
 Membuat kerangka / struktur Layout:
 
@@ -18,7 +19,12 @@ Membuat kerangka / struktur Layout:
 ```
 Pada baris kode di atas, akan menghasilkan output seperti di bawah ini, belum terlihat seperti sebuah layout.
 
-AY1g4zXk3079gXILjDgYqVKZux8lpJVV-JTh7tXJa1DCe2vT1jm2TCqZtdiBHugjJ6nnfXmzQh0NjbwBlBg5U6dtt63Tijckk_r3VtGptLVWfqadSlL4xHtJF_f7xwFLzToS7XjB
+```
+    Header
+    Sidebar
+    Content
+    Footer
+```
 
 Untuk membuatnya menjadi sebuah layout, kita harus menambahkan style css berdasarkan id yang dipanggil oleh masing-masing `<div>`.
 Menambah style CSS:
@@ -64,7 +70,7 @@ Menambah style CSS:
     </style>
 ```
 
-Mengaitkan struktur layout html dengan style CSS:
+Mengaitkan struktur layout html dengan style CSS dan menggunakan penulisan CSS eksternal ! :
 ```
     <style>
     #header
@@ -120,3 +126,7 @@ Mengaitkan struktur layout html dengan style CSS:
 
 Jika kode di atas dijalankan maka akan menghasilkan layout seperti gambar di bawah ini :
 ![alt text](https://lh5.googleusercontent.com/jPDNc7ICky1u0zH1WHHXS0eZPpgbJWGzkr3WifrWWOUGn2j0ZHbr6Cn8UUJA9hnfvtlnfC5DmMIOz1m5eJrby86gWxISWbhhFXzEcycl9LJUmrrehBATHpT3RMCcRBzRfZ6oXQUT)
+
+Task! :
+
+1. Gunakan metode Div layouting ini untuk memperbaiki tugas yang telah kalian buat sebelumnya
